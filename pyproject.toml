@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "quelvio-crewai"
-version = "0.1.0"
+version = "0.1.1"
 description = "Quelvio for CrewAI — your company's brain as a CrewAI tool."
 readme = "README.md"
 license = { text = "MIT" }
